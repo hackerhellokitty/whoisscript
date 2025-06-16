@@ -1,0 +1,2 @@
+# whoisscript
+Whois Domain Checking
